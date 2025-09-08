@@ -35,7 +35,7 @@ Built with **React, Vite, TailwindCSS, Redux Toolkit, and Axios (with secure int
 
 
 src/
-# ├─ app/ # global app wiring (routes, layouts, providers, paths)
+### ├─ app/ # global app wiring (routes, layouts, providers, paths)
 # ├─ components/ # shared UI components
 # ├─ features/ # domain-driven feature modules
 # │ ├─ blog/
